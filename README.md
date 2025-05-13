@@ -1,5 +1,8 @@
 # Clinic Incident Reporting System – Full Project Overview
 
+### 🇪🇸 Versión en Español  
+[Ver README en Español](./README.es.md)
+
 This is a full-stack web application designed to allow hospital or clinic staff to submit anonymous incident reports. The system improves communication and safety by enabling secure, trackable interactions between staff and administrators.
 
 This project is divided into two separate repositories:
