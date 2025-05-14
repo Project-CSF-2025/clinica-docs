@@ -1,4 +1,4 @@
-# Sistema de Reportes de Incidentes Clínicos – Descripción General del Proyecto
+# 🩺 Sistema de Reportes de Incidentes Clínicos – Descripción General del Proyecto
 
 Esta es una aplicación web full-stack diseñada para permitir que el personal hospitalario o clínico envíe reportes de incidentes de forma anónima. El sistema mejora la comunicación y la seguridad al permitir interacciones seguras y rastreables entre el personal y los administradores.
 
