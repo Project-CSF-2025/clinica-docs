@@ -1,4 +1,4 @@
-# Clinic Incident Reporting System – Full Project Overview
+# 🩺 Clinic Incident Reporting System – Full Project Overview
 
 [Ver README en Español](./README.es.md)
 
